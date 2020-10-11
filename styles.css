@@ -1,0 +1,36 @@
+html {
+  font-size: 11px;
+  text-align: center;
+}
+
+body {
+}
+
+#root {
+}
+
+.emoji-list {
+  list-style-type: none;
+  display: flex; /* Remove bullet points; allow greater control of positioning */
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 16rem; /* Override defaults for lists */
+  margin: auto;
+  padding: 1.6rem;
+  max-width: 100rem;
+}
+h1 {
+  margin: auto;
+
+  max-width: 100rem;
+}
+.emoji-list li {
+}
+
+.emoji-list p {
+  text-align: center;
+}
+.emoji-list span {
+  font-size: 8rem;
+}
+

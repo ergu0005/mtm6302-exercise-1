@@ -49,8 +49,7 @@ const emojiList = [
   '127880',
   '127912',
   '127914',
-  
-];
+  ];
 
 //I get out div with id of root from html
 var container = document.getElementById('root');

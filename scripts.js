@@ -64,13 +64,13 @@ for (i = 0; i <= emojiList.length - 1; i++) {
 
   //I create li element
   var li = document.createElement('li');
-  //we create p element
+  //I create p element
   var p = document.createElement('p');
-  //we create span element
+  //I create span element
   var span = document.createElement('span');
-  //We create code element
+  //I create code element
   var code = document.createElement('code');
-  //We create br element
+  //I create br element
   var br = document.createElement('br');
 
   //Set content of span

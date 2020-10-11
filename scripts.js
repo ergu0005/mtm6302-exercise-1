@@ -78,7 +78,6 @@ for (i = 0; i <= emojiList.length - 1; i++) {
   //Set content of code
   code.innerHTML = emojiList[i];
 
-
   p.appendChild(span);
   p.appendChild(br);
   p.appendChild(code);
